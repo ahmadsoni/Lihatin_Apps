@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9282832773",
+    "project_id": "lihatin-95275",
+    "storage_bucket": "lihatin-95275.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9282832773:android:7910e2e487afa4b8fe5cec",
+        "android_client_info": {
+          "package_name": "com.sun.lihatin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9282832773-s1kg9h913q3i3t5me5t0q1l77kpjghfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDiyQQNTqdHLFR0CO3lo-E6LaQA5YNXjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9282832773-s1kg9h913q3i3t5me5t0q1l77kpjghfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
